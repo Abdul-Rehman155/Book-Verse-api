@@ -1,11 +1,5 @@
 [
   {
-    "id": 2,
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "publishedYear": 1960
-  },
-  {
     "title": "Science",
     "author": "Annu kamboj",
     "description": "Testing POST",
@@ -22,5 +16,11 @@
     "author": "Eckhart Tolle",
     "description": "A guide to spiritual enlightenment.",
     "id": 6
+  },
+  {
+    "title": "home science2",
+    "author": "Eckhart Tolle",
+    "description": "A guide to spiritual.",
+    "id": 7
   }
 ]
